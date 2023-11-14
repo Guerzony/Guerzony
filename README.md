@@ -1,4 +1,4 @@
-Y## PERFIL DE GABRIEL GUERZONY, O MAGO DA PROGRAMAÇÃO E GÊNIO DO SOFTWARE 
+## PERFIL DE GABRIEL GUERZONY, O MAGO DA PROGRAMAÇÃO E GÊNIO DO SOFTWARE 
 <div align="center">
   <a href="https://github.com/Guerzony">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guerzony&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>  
