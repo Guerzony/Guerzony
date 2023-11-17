@@ -1,4 +1,10 @@
-## PERFIL DE GABRIEL GUERZONY, O MAGO DA PROGRAMAÇÃO E GÊNIO DO SOFTWARE 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Gabriel+Guerzony....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
+
 <div align="center">
   <a href="https://github.com/Guerzony">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guerzony&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>  
@@ -20,7 +26,11 @@
 <div>
   <a href="https://www.instagram.com/gabrielhcgr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/NathanAtaliba/NathanAtaliba/blob/output/github-contribution-grid-snake.svg)
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=paulolopestech&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
  
   
   
