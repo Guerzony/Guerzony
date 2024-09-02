@@ -15,12 +15,6 @@
  📚 Estudante de engenharia de software no INATEL
     <br>
   
-<p>
-<div align="center">
-  <a href="https://github.com/Guerzony">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guerzony&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>  
-    
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guerzony&layout=compact)](https://github.com/Guerzony/github-readme-stats)  
 
 </div>
 <div style="display: inline_block"><br>
@@ -35,11 +29,7 @@
   <src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
  </div>
   
-  ##
- 
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Guerzony&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
 
 </div>
  
