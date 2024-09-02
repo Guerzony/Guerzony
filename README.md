@@ -16,19 +16,34 @@
     <br>
   
 
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Joao-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Joao-CSS" height="60" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
-  <img align="center" alt="Joao-CSS" height="60" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
- </div>
-  
+## :card_index_dividers: A little bit about me
+
+```json
+{
+  "currentlyWorkingOn": "Inatel",
+  "currentlyLearning": [
+    "QA",
+  ],
+  "askMeAbout": [
+    "React",
+    "Next",
+    "Functional Programming",
+    "Vite",
+    "Container Orchestration",
+    "Docker",
+    "Kubernetes",
+    "12 Factors App Methodology"
+  ],
+  "additionalInformation": [
+    "I like to always follow the best development practices",
+    "I improve the performance and quality of the app so that it is better every day",
+    "I'm dedicated to always providing the best user experience",
+    "This is only a test",
+    "I like working with UI/UX and designing products and flows",
+    "I'm always learning"
+  ]
+}
+```
   
 
 </div>
