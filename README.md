@@ -11,13 +11,7 @@
 
 
 
-<p align="center"> 
-    <br>
- 💻 Atualmente estudando Typescript/React/NodeJS
-   <br>
- 📚 Estudante de engenharia de software no INATEL
-    <br>
-  
+
 
 ## :card_index_dividers: A little bit about me
 
